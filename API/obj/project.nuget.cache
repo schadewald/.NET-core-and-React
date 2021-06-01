@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kacb0r8q8zUWdsCCdTe1vmwfJQRw+JRfShjTSI8Xyw7qnzIzGoBZ8WLUHObbhAKyM3oERkkT0wh6tDJqMg8NBQ==",
+  "success": true,
+  "projectFilePath": "/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/chad/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/chad/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/chad/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/chad/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/chad/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/chad/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
