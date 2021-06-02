@@ -1,0 +1,12 @@
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Domain/bin/Debug/net5.0/Domain.dll
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Domain/obj/Debug/net5.0/Domain.dll
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Domain/obj/Debug/net5.0/Domain.pdb

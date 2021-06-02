@@ -44,7 +44,9 @@ namespace API
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "API v1"));
             }
 
-            app.UseHttpsRedirection();
+            // Commented HTTPS stuff out because tutorial isn't using it
+
+            // app.UseHttpsRedirection();
 
             app.UseRouting();
 

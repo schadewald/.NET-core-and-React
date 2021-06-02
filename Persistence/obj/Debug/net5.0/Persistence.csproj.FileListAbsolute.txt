@@ -1,0 +1,15 @@
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Persistence/obj/Debug/net5.0/Persistence.csproj.AssemblyReference.cache
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Persistence/obj/Debug/net5.0/Persistence.pdb
