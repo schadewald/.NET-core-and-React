@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import axios from 'axios';
 import { Header, List } from 'semantic-ui-react';
@@ -17,6 +16,7 @@ function App() {
   return (
     <div>
       <Header as='h2' icon='users' content='Reactivities' />
+
         <List>
         {activities.map((activity: any) => (
             <List.Item key={activity.id}>
