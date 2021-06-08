@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ANEOGBV3ll35Mc6Vppw4imTjtSQT+q/WhbAMcLP6tSlI7qay0b34GsAZtmci+f4+yoYFXg/M+5Lf5ivNQ65+0A==",
+  "dgSpecHash": "EPlQcsE6mpNmscn9etPlwB8cUbA1e9y2bM3FdIpcPISx1OIc1XGGGwQXbZQAMY7TdtmxTWcU+6AC/ahHKYFj0g==",
   "success": true,
   "projectFilePath": "/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/chad/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/chad/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/chad/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/Users/chad/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/chad/.nuget/packages/microsoft.data.sqlite.core/5.0.6/microsoft.data.sqlite.core.5.0.6.nupkg.sha512",
     "/Users/chad/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

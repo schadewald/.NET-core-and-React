@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "g3VSoIwc9wgf49mhR2en7BtSftDNui13Pyf7cyZsnDTuJWt3WxAlsZbOTc+mbPd5OF3OtNwY7PRzWVObk0OFmA==",
+  "dgSpecHash": "b7gZvF4szX1GJWQMSowp3xOEUkVqJFS+svoxmrng3eSITd4MrdD3u07gVYHghuE4O1rSWT0q0KCZr2a/Z1uP9Q==",
   "success": true,
   "projectFilePath": "/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/chad/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/chad/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/Users/chad/.nuget/packages/microsoft.data.sqlite.core/5.0.6/microsoft.data.sqlite.core.5.0.6.nupkg.sha512",
     "/Users/chad/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "/Users/chad/.nuget/packages/microsoft.entityframeworkcore/5.0.6/microsoft.entityframeworkcore.5.0.6.nupkg.sha512",
