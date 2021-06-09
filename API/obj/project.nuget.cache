@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "EPlQcsE6mpNmscn9etPlwB8cUbA1e9y2bM3FdIpcPISx1OIc1XGGGwQXbZQAMY7TdtmxTWcU+6AC/ahHKYFj0g==",
+  "dgSpecHash": "NM/eEoaS775O93tBsRcpH5OkonrbwJmKDL93XKqf799tDExMcnPLHmC4wEkWjKs9qL/OMbb/RkYSjgsacmTIgg==",
   "success": true,
   "projectFilePath": "/Users/chad/Documents/Documents/Programming/Udemy Courses/NET Core and React/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/chad/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/chad/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/Users/chad/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/chad/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
     "/Users/chad/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
@@ -40,7 +42,8 @@
     "/Users/chad/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/Users/chad/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/chad/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "/Users/chad/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+    "/Users/chad/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/chad/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
